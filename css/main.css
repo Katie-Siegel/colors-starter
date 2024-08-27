@@ -65,20 +65,28 @@ footer {
 
   #column-1 {
     background-color: orange;
+   
+   
   }
 
   #column-2 {
     background-color: blue;
+  
+  
   }
 
   #column-3 {
-    background-color: orange;
+    background-color: rgb(255, 0, 157);
+    width: 100%;
   }
 
   footer {
     background-color: green;
   }
   
+  .col-3 {
+    width: 50%
+  }
 }
 
 
@@ -97,11 +105,15 @@ footer {
   }
 
   #column-3 {
-    background-color: red;
+    background-color: olivedrab;
+    width: 33.3%;
   }
 
   footer {
     background-color: pink;
   }
    
+  .col-3 {
+    width: 33.3%
+  }
 }
